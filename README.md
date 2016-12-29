@@ -1,2 +1,2 @@
 # hello-world
-learning
+new to coding! (VERY new)
