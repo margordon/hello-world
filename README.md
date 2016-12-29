@@ -1,2 +1,2 @@
 # hello-world
-whats a repository
+learning
